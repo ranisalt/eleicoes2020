@@ -1,9 +1,12 @@
 (() => {
   const prefixes = [
     ['Batman'],
+    ['Betinho'],
+    ['Cantor'],
     ['Capitão', 'Capitã'],
     ['Carlão', 'Carlota'],
     ['Chico'],
+    ['Delegado', 'Delegada'],
     ['Doutor', 'Doutora'],
     ['Gretchen'],
     ['Homem Aranha'],
@@ -19,6 +22,7 @@
     ['Seu Madruga'],
     ['Super Homem', 'Mulher Maravilha'],
     ['Toninho'],
+    ['Vampiro', 'Vampira'],
     ['Viado'],
     ['Zé'],
   ], suffixes = [
@@ -39,6 +43,7 @@
     ['do Disk Água'],
     ['dos Teclados'],
     ['Gordo', 'Gorda'],
+    ['Herói', 'Heroína'],
     ['Louco', 'Louca'],
     ['Motoboy'],
     ['Pimpão'],
