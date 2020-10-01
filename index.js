@@ -52,6 +52,7 @@
     ['da Segurança'],
     ['da Sorveteria'],
     ['da Van'],
+    ['de Deus'],
     ['do Agreste'],
     ['do Amapá'],
     ['do Açougue'],
